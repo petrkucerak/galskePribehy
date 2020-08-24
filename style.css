@@ -15,12 +15,28 @@ body{
 
 body{
 
+    background-color: blanchedalmond;
+
+
     font-family: Trebuchet MS, sans-serif;
     text-align: center;
 
+    margin: 0px;
+
+}
+header{
+
+    background-color: darkgoldenrod;
+    margin: 0px;
+    padding: 30px;
+    margin-bottom: 10px;
 }
 
 article{
 
     text-align: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    
 }
