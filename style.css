@@ -1,0 +1,26 @@
+/*
+body{
+
+    margin: 0;
+}
+.header{
+
+    background-color: #572b2b;
+}
+
+#fist-tit{
+
+    font-size: 5rem;
+}*/
+
+body{
+
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+
+}
+
+article{
+
+    text-align: left;
+}
