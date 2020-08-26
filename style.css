@@ -30,6 +30,7 @@ header{
     margin: 0px;
     padding: 30px;
     margin-bottom: 10px;
+
 }
 
 article{
@@ -38,5 +39,11 @@ article{
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 40px;
-    
+    width: 90%;
+    max-width: 1000px;
+}
+
+a{
+
+    flex-wrap: wrap;
 }
